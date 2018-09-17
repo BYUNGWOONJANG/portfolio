@@ -17,13 +17,24 @@ Project
 --------------------------
 ![23](https://user-images.githubusercontent.com/23480071/45610520-29dd5800-ba97-11e8-8b65-f65a7c6441e5.PNG)
 ![24](https://user-images.githubusercontent.com/23480071/45610522-2a75ee80-ba97-11e8-8b90-da3951d55a4d.PNG)
-Java,Javascript 로 개발 네이버 지도 위에 시설물 표시 오버레이 및 Data visualization 작업
+
+*Java,Javascript 로 개발 네이버 지도 위에 시설물 표시 오버레이 및 Data visualization 작업*
 
 
 Cesium 기반으로 만든 MapX 3D 엔진 개발[2017.12.23 ~ 2018.06.22] 
 --------------------------
-Java,Javascript & Node js,Electron, Python 로 개발 Electron 을 통한 3D Tools 및 Web 상에서 3D 건물을 올리는 기술 및
-3D 지도에 경사도 , Circle 을 통한 반경 표시 ,직선 거리 측정 및 기복이 있는 거리 측정 등 3D 엔진 개발 작업 
+![13](https://user-images.githubusercontent.com/23480071/45610601-817bc380-ba97-11e8-8158-e57ea883f348.PNG)
+![14](https://user-images.githubusercontent.com/23480071/45610602-817bc380-ba97-11e8-971d-b76639fd5a9e.PNG)
+![15](https://user-images.githubusercontent.com/23480071/45610604-82145a00-ba97-11e8-9ebc-b09edee7f91f.PNG)
+![16](https://user-images.githubusercontent.com/23480071/45610605-82145a00-ba97-11e8-8bfa-dce963630821.PNG)
+![17](https://user-images.githubusercontent.com/23480071/45610606-82145a00-ba97-11e8-93dc-e011b58cd913.PNG)
+![18](https://user-images.githubusercontent.com/23480071/45610607-82acf080-ba97-11e8-9f5d-f01c7064b4e7.PNG)
+![19](https://user-images.githubusercontent.com/23480071/45610600-817bc380-ba97-11e8-9553-42f5b2e1e4bb.PNG)
+![20](https://user-images.githubusercontent.com/23480071/45610588-73c63e00-ba97-11e8-8f83-9f797196861e.PNG)
+![25](https://user-images.githubusercontent.com/23480071/45610585-71fc7a80-ba97-11e8-990a-04638aadc15c.PNG)
+
+*Java,Javascript & Node js,Electron, Python 로 개발 Electron 을 통한 3D Tools 및 Web 상에서 3D 건물을 올리는 기술 및
+3D 지도에 경사도 , Circle 을 통한 반경 표시 ,직선 거리 측정 및 기복이 있는 거리 측정 등 3D 엔진 개발 작업 *
 
 
 수요자 맞춤형 도시기상 정보시스템 관측 데이터 처리 및 3D Building & Data visualization [2017.08.22 ~ 2017.12.22]
