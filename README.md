@@ -153,12 +153,6 @@ __3D 지도에 경사도 , Circle 을 통한 반경 표시 ,직선 거리 측정
 
 
 
-![16](https://user-images.githubusercontent.com/23480071/45610604-82145a00-ba97-11e8-9ebc-b09edee7f91f.PNG)
-
-
-
-
->__대용량 데이터 의 라인 그래프 표출__
 
 
 
